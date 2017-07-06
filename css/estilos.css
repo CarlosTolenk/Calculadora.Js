@@ -41,9 +41,10 @@ body{
   justify-content: space-between;
 }
 .teclado img{
-  width: 22%;
+  width: 23%;
   height: 62.91px;
 }
+
 @font-face {
   font-family: digital;
   src: url("../fonts/digital.ttf");
